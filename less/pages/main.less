@@ -1,0 +1,64 @@
+@space: 60px;
+@brp1: 760px;
+@brp2: 600px;
+@brp3: 450px;
+
+@red: rgb(214, 0, 0);
+
+* {
+	box-sizing: border-box;
+}
+
+.hidden {
+	display: none;
+}
+
+.loadImageHidden {
+	visibility: hidden;
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: -999;
+	height: 0;
+	width: 0;
+}
+
+html, body {
+	height: 100%;
+	font-family: Roboto Slab;
+}
+
+.clearfix {
+    .clearfix();
+}
+
+.clearfix() {
+	&:after {
+	    content: ".";
+	    clear: both;
+	    display: block;
+	    visibility: hidden;
+	    height: 0px;
+	}
+}
+
+blockquote {
+	p {
+	    font-size: 32px;
+	    font-weight: 100;
+	    line-height: 36px;
+	    padding: 10px 20px 10px 0;
+	    @media screen and (max-width: @brp2) {
+	    	font-size: 25px;
+	    }
+	}
+	.separator {
+	    float: left;
+	    height: 30px;
+	    margin-right: 10px;
+	    width: 30px;
+	}
+	.author {
+	    float: left;
+	}
+}

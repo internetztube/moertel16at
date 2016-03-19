@@ -1,0 +1,452 @@
+<!DOCTYPE html>
+<html lang="de">
+    <head>
+        <title>Richard Lugner 2016</title>
+        <meta charset="utf-8">
+        <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700' rel='stylesheet' type='text/css'>
+        <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet">
+        <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport">
+        <link href="index.css?" type="text/css" rel="stylesheet" />
+        <meta content="Frederic Köberl" name="author">
+        <link href="/img/favicon.ico" rel="shortcut icon" type="image/x-icon">
+        <link href="/img/favicon.ico" rel="icon" type="image/x-icon">
+        <meta content="http://moertel16.at" property="og:url">
+        <meta content="website" property="og:type">
+        <meta content="Richard Lugner 2016" property="og:title">
+        <meta content="Ich sehe aus wie George Clooney." property="og:description">
+        <meta content="http://moertel16.at/img/preview.jpg" property="og:image">
+        <meta content="summary_large_image" name="twitter:card">
+        <meta content="@moertel16at" name="twitter:site">
+        <meta content="@moertel16at" name="twitter:creator">
+        <meta content="Richard Lugner 2016" name="twitter:title">
+        <meta content="Ich sehe aus wie George Clooney." name="twitter:description">
+        <meta content="http://moertel16.at/img/preview.jpg" name="twitter:image">
+    </head>
+    <body id="index-index">
+        <img class="loadImageHidden" src="/img/richard/left.png">
+        <img class="loadImageHidden" src="/img/richard/middle.png">
+        <img class="loadImageHidden" src="/img/button/button.png">
+        <img class="loadImageHidden" src="/img/button/button-pressed.png">
+        <img class="loadImageHidden" src="/img/button/button-shadow.png">
+
+        <a class="twitter fixed" href="http://twitter.com/moertel16at" target="_blank">
+            <i class="fa fa-twitter-square"></i>
+            <div class="background"></div>
+        </a>
+        <div class="ribbon">
+            <a href="https://twitter.com/hashtag/lugnergate" target="_blank">#lugnergate</a>   
+        </div>
+        <header>
+            <div class="background"></div>
+            <div class="hero">
+                <h1>LUGNER FOR PRESIDENT!</h1>
+                <div class="wrapper">
+                    <blockquote id="mainQuote">
+                        <p><span>„</span><span class="quote"></span><span>“</span></p>
+                        <div class="separator">
+                            <hr>
+                        </div>
+                        <div class="author">
+                            <div class="name"></div>
+                            <div class="company">
+                                Baumeister Lugner GmbH
+                            </div>
+                        </div>
+                        <div class="clearfix"></div>
+                    </blockquote>
+                </div>
+                <div class="face"></div>
+            </div>
+        </header>
+        <div class="flag" style="height: 15px;"></div>
+        <div class="content">
+            <div style="background-color: #005057; color: #FFF">
+                <div class="wrapper">
+                    <div class="block">
+                        <h2>Warum gerade wir, die Lugners?</h2>
+                        <blockquote>
+                            <p><span>„</span>Wir stehen beide täglich als Manager in der Zentrale der Lugner-City, stehen als Schauspieler und Hauptdarsteller der bekanntesten Reality-Soaps bei ATV und RTL II seit Jahren voll im herrausvordernden bezahlten Berufsleben.<span>“</span></p>
+                            <div class="separator">
+                                <hr>
+                            </div>
+                            <div class="author">
+                                <div class="name">
+                                    Cathy Lugner (5. Frau)
+                                </div>
+                            </div>
+                            <div class="clearfix"></div>
+                            <p></p>
+                        </blockquote>
+                    </div>
+                </div>
+            </div>
+            <div class="wrapper">
+                <div class="block quotes">
+                    <h2>Mörtel Jukebox</h2>
+                    <div class="buttonListWrapper"></div>
+                    <p>Du kennst noch ein kurioses Zitat vom Baumeister? Immer her damit!<br>
+                        Am besten den Vorschlag mit Quelle an <a href="http://moertel16.at" target="_blank">@moertel16</a> oder <a href="mailto:richard.lugner@internetztube.net">richard.lugner@internetztube.net</a> senden.<br>
+                        <br>
+                        Danke!
+                    </p>
+                </div>
+            </div>
+            <div style="background-color: #111; color: #FFF">
+                <div class="wrapper ">
+                    <div class="block rip">
+                        <h2>Requiescat In Pace </h2>
+                        <ul class="accounts">
+                            <li>
+                                <p class="account">
+                                    <a href="http://twitter.com/moertel16" target="_blank">@moertel16</a>
+                                </p>
+                                <p class="date">
+                                    <span class="start">* 14.02.2016</span><span class="end">&#x271d; 02.03.2016</span>
+                                </p>
+                            </li>
+                            <li>
+                                <p class="account">
+                                    <a href="http://twitter.com/firstlady4aut" target="_blank">@firstlady4aut</a>
+                                </p>
+                                <p class="date">
+                                    <span class="start">* unbekannt</span><span class="end">&#x271d; 02.03.2016</span>
+                                </p>
+                            </li>
+                            <li>
+                                <p class="account">
+                                    <a href="http://twitter.com/andreaskhol" target="_blank">@andreaskhol</a>
+                                </p>
+                                <p class="date">
+                                    <span class="start">* unbekannt</span><span class="end">&#x271d; 02.03.2016</span>
+                                </p>
+                            </li>
+                        </ul>
+                        <p>Helfen Sie uns, dass so etwas nicht noch einmal passiert. <a href="https://twitter.com/hashtag/lugnergate" target="_blank">#lugnergate</a></p>
+                    </div>
+                </div>
+            </div>
+            <div class="wrapper">
+                <div class="block video">
+                    <h2>Unser Zusammenleben</h2>
+                    <p><span>„</span>Jaaa, es ist a Katastrophe.<span>“</span></p>
+                    <div class="videoWrapper">
+                        <iframe allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/yPYk0i4uCVE"></iframe>
+                    </div>
+                </div>
+            </div>
+            <div style="background-color: #2980b9; color: #FFF">
+                <div class="wrapper">
+                    <div class="block video">
+                        <h2>Lugner for President!!!111elf</h2>
+                        <p>Jetzt das Wahlkampfvideo in 240p SD (Shit Definition) ansehen!<br>
+                            Gefilmt mit einer Bio Kartoffel vom Billa.
+                        </p>
+                        <div class="videoWrapper">
+                            <iframe allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/1Uqw_ihOkQM"></iframe>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div style="background-color: #FFF; color: #000">
+                <div class="wrapper">
+                    <div class="block press">
+                        <h2>Medienecho</h2>
+                        <a class="article full" href="http://www.heute.at/news/politik/Satire-Seite-zieht-Lugner-durch-den-Kakao;art23660,1259745" target="_blank">
+                            <img src="/img/press-logos/heute.svg">
+                            <div class="headline">
+                                Satire-Seite zieht Lugner durch den Kakao
+                            </div>
+                        </a>
+                        <a class="article" href="http://derstandard.at/2000031435148/Jukebox-auf-moertel16at-spielt-kuriose-Lugner-Zitate" target="_blank">
+                            <img src="/img/press-logos/derStandard.svg">
+                            <div class="headline">
+                                "Jukebox" auf moertel16.at spielt kuriose Lugner-Zitate
+                            </div>
+                        </a>
+                        <a class="article" href="http://derstandard.at/2000031442632-2000005810778/Satire-Jukebox-Bettel-Tweets" target="_blank">
+                            <img src="/img/press-logos/derStandard.svg">
+                            <div class="headline">
+                                Satire-Jukebox & Bettel-Tweets
+                            </div>
+                        </a>
+                        <div class="clearfix"></div>
+                        <a class="article" href="http://www.krone.at/Digital/Praesidentenwahl_Satire-Seite_narrt_Richard_Lugner-moertel16.at-Story-496717" target="_blank">
+                            <img src="/img/press-logos/krone.svg">
+                            <div class="headline">
+                                Präsidentenwahl: Satire-Seite narrt Richard Lugner
+                            </div>
+                        </a>
+                        <a class="article" href="http://www.energy.at/home/stories/stars/6653/Mrtel-Jukebox" target="_blank">
+                            <img src="/img/press-logos/energy.png">
+                            <div class="headline">
+                                Mörtel Jukebox
+                            </div>
+                        </a>
+                        <div class="clearfix"></div>
+                    </div>
+                </div>
+            </div>
+            <div style="background-color: #afafaf; color: #FFF">
+                <div class="wrapper">
+                    <div class="block media">
+                        <h2>Logos</h2>
+                        <div class="mediaItem">
+                            <a href="/img/logos/logo.png" target="_blank"><img class="logo" src="/img/logos/logo.png"></a>
+                        </div>
+                        <div class="mediaItem">
+                            <a href="/img/logos/logo-white.png" target="_blank"><img class="logo" src="/img/logos/logo-white.png"></a>
+                        </div>
+                        <div class="mediaItem">
+                            <a href="/img/logos/logo-small.png" target="_blank"><img class="logo" src="/img/logos/logo-small.png"></a>
+                        </div>
+                        <div class="mediaItem">
+                            <a href="/img/logos/logo-small-white.png" target="_blank"><img class="logo" src="/img/logos/logo-small-white.png"></a>
+                        </div>
+                        <div class="clearfix"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="wrapper">
+                <div class="block source">
+                    <h3>Quellen</h3>
+                    <ul>
+                        <li>
+                            <a href="https://commons.wikimedia.org/wiki/User:Bwag" target="_blank">Header Bild - &copy; Bwag/Commons</a>
+                        </li>
+                        <li>
+                            <a href="https://youtu.be/CZUoFI4J3y8?t=9m23s" target="_blank"><i>den YouTube</i> Button</a>
+                        </li>
+                        <li>
+                            <a href="https://youtu.be/q-khjzgaB_k?t=2m42s" target="_blank"><i>Coole Männer?</i> Button</a>
+                        </li>
+                        <li>
+                            <a href="https://youtu.be/q-khjzgaB_k?t=2m45s" target="_blank"><i>Nutten</i> Button</a>
+                        </li>
+                        <li>
+                            <a href="https://youtu.be/br321dPUJuA?t=1m5s" target="_blank"><i>Spielzeug NSFW</i> Button</a>
+                        </li>
+                        <li>
+                            <a href="https://youtu.be/uDbkKmDopiM?t=34s" target="_blank"><i>Karnickel</i> Button</a>
+                        </li>
+                        <li>
+                            <a href="https://youtu.be/l59SI4Z6B20?t=1m13s" target="_blank"><i>Diskutieren</i> Button</a>
+                        </li>
+                        <li>
+                            <a href="https://youtu.be/_--M6tm0tEk?t=1m24s" target="_blank"><i>Hallo</i> Button</a>
+                        </li>
+                        <li>
+                            <a href="https://www.youtube.com/watch?v=SaDb6d45hA0" target="_blank"><i>Rosen</i> Button</a>
+                        </li>
+                        <li>
+                            <a href="https://www.youtube.com/watch?v=PyjGnhbZlzM#t=0m30s" target="_blank"><i>Ehevertrag</i> Button</a>
+                        </li>
+                        <li>
+                            <a href="https://www.youtube.com/watch?v=q-khjzgaB_k" target="_blank"><i>Warum gerade wir die Lugners?</i> Video</a>
+                        </li>
+                        <li>
+                            <a href="https://youtu.be/CZUoFI4J3y8" target="_blank">Zitate u.a aus der <i>Pressekonferenz vom 11.02.2016</i></a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="flag" style="height: 30px;"></div>
+        <footer>
+            <span class="middle">a Fred production - 2016</span> <a class="imprint" href="http://internetztube.net/about">Impressum</a> <span class="disclaimer">Diese Seite steht in keinster Weise im Zusammenhang mit <a href="https://de.wikipedia.org/wiki/Richard_Lugner">Richard Lugner</a>.<br>
+            Hierbei handelt es sich um <a href="https://de.wikipedia.org/wiki/Satire">Satire</a>.</span>
+            <div class="clearfix"></div>
+            <div class="projects">
+                <p class="headline">Andere Projekte:</p>
+                <ul>
+                    <li>
+                        <a href="http://internetztube.net/oe3" target="_blank">OE3 Statistik</a>
+                    </li>
+                    <li>
+                        <a href="http://teetrap.com" target="_blank">TeeTrap.com</a>
+                    </li>
+                </ul>
+            </div>
+        </footer>
+        <script type="text/javascript">
+            var quoteList = [
+                {
+                    "text": "Ich sehe aus wie George Clooney.",
+                    "author": 'Richard "George Clooney" Lugner'
+                },
+                {
+                    "text": "Der Kasperl gewinnt am Ende immer.",
+                    "author": 'Richard "Kasperl" Lugner'
+                },
+                {
+                    "text": "Österreich muss wieder in Front kommen, Österreichs Wirtschaft muss wieder Aufschwung nehmen",
+                    "author": "Richard Lugner"
+                },
+                {
+                    "text": "Von dem was ich verdient hab, hab ich die Hälfte an den Staat abgeliefert.",
+                    "author": "Richard Lugner"
+                },
+                {
+                    "text": "Meine Frau und ich werden Englischkurse machen.",
+                    "author": "Richard Lugner"
+                },
+                {
+                    "text": "Die Meinungsforscher liegen oft daneben.",
+                    "author": "Richard Lugner"
+                },
+                {
+                    "text": "Ich bin ein Mensch aus dem Volk. Ich bin so wie ich bin.",
+                    "author": "Richard Lugner"
+                }
+            ];
+            
+            var colorList = [
+                "#990033",
+                "#ffff33",
+                "#0099ff",
+                "#cc9966",
+                "#0066cc",
+                "#ff99cc",
+                "#333333",
+                "#009900",
+                "#d35400",
+                "#005057"
+            ];
+            
+            var buttonDataList = [
+                {
+                    "audio": "/audio/diskutieren.mp3",
+                    "desc": "Diskutieren"
+                },
+                {
+                    "audio": "/audio/nutten.mp3",
+                    "desc": "Nutten"
+                },
+                {
+                    "audio": "/audio/spielzeug.mp3",
+                    "desc": "Spielzeug NSFW"
+                },
+                {
+                    "audio": "/audio/hallo.mp3",
+                    "desc": "Hallo"
+                },
+                {
+                    "audio": "/audio/gpunkt.mp3",
+                    "desc": "G-Punkt"
+                },
+                {
+                    "audio": "/audio/karnickel.mp3",
+                    "desc": "Karnickel"
+                },
+                {
+                    "audio": "/audio/ehevertrag.mp3",
+                    "desc": "Ehevertrag"
+                },
+                {
+                    "audio": "/audio/vogel.mp3",
+                    "desc": "Vogel"
+                },
+                {
+                    "audio": "/audio/beiwagerl.mp3",
+                    "desc": "Beiwagerl"
+                },
+                {
+                    "audio": "/audio/den-youtube.mp3",
+                    "desc": "den YouTube"
+                },
+                {
+                    "audio": "/audio/wildschwein.mp3",
+                    "desc": "Wildschwein"
+                },
+                {
+                    "audio": "/audio/coole-maenner.mp3",
+                    "desc": "Coole Männer"
+                },
+                {
+                    "audio": "/audio/rosen.mp3",
+                    "desc": "Rosen"
+                },
+                {
+                    "audio": "/audio/geil.mp3",
+                    "desc": "Geil"
+                },
+                {
+                    "audio": "/audio/verstanden.mp3",
+                    "desc": "Verstanden?"
+                }
+                
+            ];
+            var $buttonListWrapper = document.querySelector(".buttonListWrapper"),
+                $mainQuote = document.querySelector("#mainQuote"),
+                isPlaying;
+            
+            function init() {
+                setQuote();
+                buildButtons();
+                $buttonList = $buttonListWrapper.querySelectorAll(".buttonWrapper .button");
+                bindButtons();
+            }
+            
+            function setQuote() {
+                quoteList = shuffle(quoteList);
+                $mainQuote.querySelector(".quote").innerHTML = quoteList[0]["text"];
+                $mainQuote.querySelector(".author .name").innerHTML = quoteList[0]["author"];
+            }
+            
+            function buildButtons() {
+                var markup = "";
+                for(var i = 0, j = 0; i < buttonDataList.length; i++, j++) {
+                    if(j > colorList.length) {
+                        j = 0;
+                    }
+                    markup += '<div class="buttonWrapper">';
+                        markup += '<div class="buttonInnerWrapper">';
+                            markup += '<div class="background" style="background-color:' + colorList[j] + ';"><\/div>';
+                            markup += '<div class="button"><\/div>';
+                            markup += '<div class="shadow"><\/div>';
+                            markup += '<audio><source src="' + buttonDataList[i]["audio"] + '" type="audio/mp3"><\/audio>';
+                        markup += '<\/div>'
+                        markup += '<p>' + buttonDataList[i]["desc"] +  ' <a href="' + buttonDataList[i]["audio"] +'" target="_blank"><i class="fa fa-download"><\/i><\/a><\/p>';
+                    markup += '<\/div>';
+                }
+                $buttonListWrapper.innerHTML = markup;
+            }
+            
+            function isPlaying() {
+                var $audio;
+                var $buttonList = $buttonListWrapper.querySelectorAll(".buttonWrapper .button")
+                for(var i = 0; i < $buttonList.length; i++) {
+                    $audio = $buttonList[i].parentElement.querySelector("audio");
+                    if(!$audio.paused) {
+                        return true;
+                    }
+                }
+                return false;
+            }
+            
+            function bindButtons() {
+                for(var i = 0; i < $buttonList.length; i++) {
+                    $buttonList[i].addEventListener("click", function(ev) {
+                        if(isPlaying()) {
+                            return;
+                        }
+                        var $element = ev.currentTarget;
+                        var $audio = $element.parentElement.querySelector("audio");
+                        console.log($element);
+                        if($audio.paused) {
+                            $audio.play();
+                        }
+                    })
+                }
+            
+            }
+            
+            
+            function shuffle(o){
+                for(var j, x, i = o.length; i; j = Math.floor(Math.random() * i), x = o[--i], o[i] = o[j], o[j] = x);
+                return o;
+            }
+            init();
+            
+        </script>
+    </body>
+</html>
