@@ -1,0 +1,12 @@
+{
+    "name": "moertel16-at",
+    "version": "1.0.0",
+    "devDependencies": {
+        "grunt-contrib-less": "^1.2.0",
+        "grunt-contrib-uglify": "^1.0.1",
+        "grunt-contrib-watch": "^1.0.0"
+    },
+    "peerDependencies": {
+        "grunt": ">=0.4.0"
+    }
+}
