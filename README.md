@@ -1,5 +1,5 @@
 # moertel16.at
-Satire Seite für den Bundespräsidentschaftskandidat Richard Lugner
+Satire Seite über den Bundespräsidentschaftskandidaten Richard Lugner
 
 Da die Domain `moertel16.at` von Richard Lugner himself offline genommen worden ist, habe ich mich dazu entscheiden den Source-Code der Seite zu veröffentlichen. 
 
