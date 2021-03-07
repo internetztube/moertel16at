@@ -10,13 +10,12 @@
         <meta content="Frederic Köberl" name="author">
         <link href="img/favicon.ico" rel="shortcut icon" type="image/x-icon">
         <link href="img/favicon.ico" rel="icon" type="image/x-icon">
-        
+
         <meta content="http://moertel16.at" property="og:url">
         <meta content="website" property="og:type">
         <meta content="Richard Lugner 2016" property="og:title">
         <meta content="Ich sehe aus wie George Clooney." property="og:description">
         <meta content="http://moertel16.at/img/preview.jpg" property="og:image">
-        
         <meta content="summary_large_image" name="twitter:card">
         <meta content="@moertel16at" name="twitter:site">
         <meta content="@moertel16at" name="twitter:creator">
@@ -36,7 +35,7 @@
             <div class="background"></div>
         </a>
         <div class="ribbon">
-            <a href="https://twitter.com/hashtag/lugnergate" target="_blank">#lugnergate</a>   
+            <a href="https://twitter.com/hashtag/lugnergate" target="_blank">#lugnergate</a>
         </div>
         <header>
             <div class="background"></div>
@@ -300,7 +299,7 @@
                     "author": "Richard Lugner"
                 }
             ];
-            
+
             var colorList = [
                 "#990033",
                 "#ffff33",
@@ -313,7 +312,7 @@
                 "#d35400",
                 "#005057"
             ];
-            
+
             var buttonDataList = [
                 {
                     "audio": "audio/diskutieren.mp3",
@@ -376,24 +375,24 @@
                     "desc": "Verstanden?"
                 }
             ];
-            
+
             var $buttonListWrapper = document.querySelector(".buttonListWrapper"),
                 $mainQuote = document.querySelector("#mainQuote"),
                 isPlaying;
-            
+
             function init() {
                 setQuote();
                 buildButtons();
                 $buttonList = $buttonListWrapper.querySelectorAll(".buttonWrapper .button");
                 bindButtons();
             }
-            
+
             function setQuote() {
                 quoteList = shuffle(quoteList);
                 $mainQuote.querySelector(".quote").innerHTML = quoteList[0]["text"];
                 $mainQuote.querySelector(".author .name").innerHTML = quoteList[0]["author"];
             }
-            
+
             function buildButtons() {
                 var markup = "";
                 for(var i = 0, j = 0; i < buttonDataList.length; i++, j++) {
@@ -412,7 +411,7 @@
                 }
                 $buttonListWrapper.innerHTML = markup;
             }
-            
+
             function isPlaying() {
                 var $audio;
                 var $buttonList = $buttonListWrapper.querySelectorAll(".buttonWrapper .button")
@@ -424,7 +423,7 @@
                 }
                 return false;
             }
-            
+
             function bindButtons() {
                 for(var i = 0; i < $buttonList.length; i++) {
                     $buttonList[i].addEventListener("click", function(ev) {
@@ -440,13 +439,13 @@
                     })
                 }
             }
-            
+
             function shuffle(o){
                 for(var j, x, i = o.length; i; j = Math.floor(Math.random() * i), x = o[--i], o[i] = o[j], o[j] = x);
                 return o;
             }
             init();
-            
+
         </script>
     </body>
 </html>
